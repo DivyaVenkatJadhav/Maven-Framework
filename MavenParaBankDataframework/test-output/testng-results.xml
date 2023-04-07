@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11650" started-at="2023-04-07T07:51:25 IST" finished-at="2023-04-07T07:51:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11650" started-at="2023-04-07T07:51:25 IST" finished-at="2023-04-07T07:51:37 IST">
+      <class name="TestClass.NewAccountTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestClass.NewAccountTest@4abdb505]" name="openBrowser" is-config="true" duration-ms="6220" started-at="2023-04-07T07:51:25 IST" finished-at="2023-04-07T07:51:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="LoginUser()[pri:0, instance:TestClass.NewAccountTest@4abdb505]" name="LoginUser" is-config="true" duration-ms="2596" started-at="2023-04-07T07:51:31 IST" finished-at="2023-04-07T07:51:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="CreateNewSubAccount()[pri:0, instance:TestClass.NewAccountTest@4abdb505]" name="CreateNewSubAccount" duration-ms="465" started-at="2023-04-07T07:51:34 IST" finished-at="2023-04-07T07:51:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewSubAccount -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestClass.NewAccountTest@4abdb505]" name="Logout" is-config="true" duration-ms="1438" started-at="2023-04-07T07:51:34 IST" finished-at="2023-04-07T07:51:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestClass.NewAccountTest@4abdb505]" name="closeBrowser" is-config="true" duration-ms="886" started-at="2023-04-07T07:51:36 IST" finished-at="2023-04-07T07:51:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestClass.NewAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
